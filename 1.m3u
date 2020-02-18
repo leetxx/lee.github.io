@@ -95,6 +95,5 @@ rtmp://58.200.131.2:1935/livetv/fhzw
 http://125.210.152.21:9090/live/FHZW.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港台频道",凤凰资讯(1)
 http://125.210.152.21:9090/live/FHZX.m3u8
-http://61.244.22.4/ch3/ch3.live/playelist.m3u8
 #EXTINF:-1 group-title="澳門",澳门莲花
 http://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c.m3u8
