@@ -1,8 +1,3 @@
-#EXTM3U url-tvg="http://tv.sason.xyz/epg"
-#EXTINF:-1 tvg-id="142"  tvg-logo="http://tv.sason.xyz/logo/fhzx.png" group-title="0.说明",[gt] ver.2019.02.11v3
-http://liveali.ifeng.com/live/FHZX.m3u8
-#EXTINF:-1 tvg-id="6073"  tvg-logo="http://tv.sason.xyz/logo/tvbsxw.png" group-title="0.说明",(带★号需科学上网)
-http://60.199.188.65/HLS/WG_TVBS-N/01.m3u8
 #EXTINF:-1 tvg-id="141"  tvg-logo="http://tv.sason.xyz/logo/fhzw.png" group-title="L.综合",[国语|香港] 凤凰 中文 官方
 http://liveali.ifeng.com/live/FHZW.m3u8
 #EXTINF:-1 tvg-id="141"  tvg-logo="http://tv.sason.xyz/logo/fhzw.png" group-title="L.综合",[国语|香港] 凤凰 中文 FHD
